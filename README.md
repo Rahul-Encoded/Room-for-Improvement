@@ -1,4 +1,5 @@
-# Hotel Booking Insights
+# Room for Improvement 
+## a project on Hotel Booking Insights
 
 ## Overview
 Welcome to the Hotel Booking Insights repository! This project aims to analyze hotel booking data to uncover trends, patterns, and insights that can help improve hotel management and customer satisfaction.
